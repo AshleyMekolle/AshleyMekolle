@@ -1,14 +1,13 @@
-
-Hi there 👋                                                                                                                                                                              
+Hi there 👋
 Welcome to my GitHub profile! Here's a little about me:
 
 🔭 I’m currently working on:
--Developing scalable web applications.
--API Projects:
-   Developing a Weather App using the OpenWeather API for real-time weather updates.
-   Creating a Recipe App powered by Spoonacular API to explore and manage recipes.
-   Designing a Quiz App with the Open Trivia Database for dynamic quiz categories
--Building an Inventory App with a minimalist design, leveraging React and PostgreSQL for seamless sales and stock tracking.
+Developing scalable web applications.
+API Projects:
+Developing a Weather App using the OpenWeather API for real-time weather updates.
+Creating a Recipe App powered by Spoonacular API to explore and manage recipes.
+Designing a Quiz App with the Open Trivia Database for dynamic quiz categories.
+Building an Inventory App with a minimalist design, leveraging React and PostgreSQL for seamless sales and stock tracking.
 🌱 I’m currently learning:
 Advanced Next.js techniques.
 Backend development with Prisma and PostgreSQL.
