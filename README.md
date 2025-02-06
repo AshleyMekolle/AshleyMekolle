@@ -7,23 +7,17 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering student** 
 - 💡 Passionate about **Frontend Development** for great user experience and interfaces
 - 🌍 Exploring **AI & Machine Learning**
 - 📊 Developing **Sales Forecasting & Inventory Management Apps** using **React & PostgreSQL**
-- 🏗️ Working on **a file-sharing app using Tkinter and python**
 - 🔍 Conducting **Security Testing with OWASP ZAP** & **Vulnerability Scanning using OpenVAS & Metasploit**
 - 🏆 Currently participating in the **HNG Internship** for frontend development
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript, Python, Java, SQL
+- **Languages:** TypeScript, Python, SQL, CSS, HTML
 - **Frameworks & Libraries:** React.js, Next.js, Redux, Node.js, Prisma
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps & Security:** Kali Linux, OpenVAS, VMware, Windows Server
-- **Other Tools:** Netlify, Vercel, GitHub, OWASP ZAP, Docker
+- **Databases:** PostgreSQL, Firebase
+- **DevOps & Security:** VMware, Windows Server
+- **Other Tools:** Netlify, Vercel, GitHub
 
 ## 📌 Featured Projects
-### 🔹 [Mining Healthcare Data to Predict Maternal Mortality Rates][(https://github.com/AshleyMekolle/Mining-Healthcare-Data)](https://github.com/CamHealth-Analytics/Data-Mining)
-**Goal:** Use classification algorithms (** Random Forest**) to analyze maternal mortality in Cameroon.
-
-### 🔹 [Sales Forecast Web App][(https://github.com/AshleyMekolle/Sales-Forecast-App)](https://github.com/AshleyMekolle/Machine-Learning/tree/master/sales-forecast)
-**Tech:** Next.js, Machine Learning, PostgreSQL, React
 
 ### 🔹 [File Sharing App](https://github.com/AshleyMekolle/File-Sharing-App)
 **Tech:** Tkinter, python
