@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering student** 
 
 ### 🔹 [File Sharing App](https://github.com/AshleyMekolle/File-Sharing-App)
 **Tech:** Tkinter, python
-### 🔹 [Language Detection App]([https://github.com/AshleyMekolle/File-Sharing-App](https://github.com/AshleyMekolle/HNG-Stage3/tree/master/LanguageSync))
+### 🔹 [Language Detection App](https://github.com/AshleyMekolle/HNG-Stage3/tree/master/LanguageSync)
 **Tech:** TS, React, css
-### 🔹 [Python Snake Game]([https://github.com/AshleyMekolle/File-Sharing-App](https://github.com/AshleyMekolle/Snake-game-python))
+### 🔹 [Python Snake Game](https://github.com/AshleyMekolle/Snake-game-python)
 **Tech:** Tkinter, python
 
 ## 📫 Connect with Me
