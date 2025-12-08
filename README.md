@@ -105,25 +105,16 @@ My long-term goal is to build **impactful, scalable solutions** while continuing
 
 I have completed multiple automation-focused projects as part of the **HNG Internship**, progressing from foundational workflows to advanced, production-style systems.
 
-### 🔹 – Foundational Automation
+### 🔹Foundational Automation
 - Built and tested a Zapier workflow that automatically added structured records to Google Sheets  
 
-### 🔹 – Productivity Dashboard
+### 🔹Productivity Dashboard
 - Designed a Notion task dashboard integrated with Zapier  
 - Automated Gmail reminders based on task status changes  
 
-### 🔹 – Idea Prioritization Pipeline
+### 🔹Idea Prioritization Pipeline
 - Created a conditional Zapier pipeline to classify ideas from Gmail into multiple Airtable tables  
 - Implemented data filtering and aging formulas for prioritization  
-
-### 🔹 – Automated Order Management
-- Developed a full-stack automation workflow for handling orders  
-- Implemented logic for new vs. returning customers, payment-based routing, and delivery vs. pickup  
-- Automated email notifications based on order status  
-
-### 🔹 – Enhanced Order Management System
-- Extended the order system with stock tracking, customer matching, and loyalty recognition  
-- Implemented 24-hour payment reminders, error logging, and revenue reporting  
 
 > *Beyond these, I have built several similar automation systems focused on operations, data organization, reporting, and workflow optimization.*
 
