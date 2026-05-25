@@ -3,7 +3,7 @@
 💻 Software Engineering Student | 🤖 AI & ML Enthusiast | 🌐 Frontend & Automation Builder  
 
 Here is my portfolio:
-[Ashley's Portfolio](https://portfolio-me1lwz9rq-ashley-mekolles-projects.vercel.app)
+[Ashley's Portfolio](https://portfolio-zeta-nine-4lg1fq4hy0.vercel.app)
 
 I build **user-centered software** and **automation systems** that simplify processes, support learning, and create real-world impact. I’m driven by meaningful problem-solving, continuous learning, and using technology to help people work smarter.
 
